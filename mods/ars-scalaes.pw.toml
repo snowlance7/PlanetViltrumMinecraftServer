@@ -1,0 +1,49 @@
+filename = 'ars_scalaes-1.20.1-1.10.7c.jar'
+name = 'Ars Scalaes'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ars_scalaes-1.20.1-1.10.7c.jar'
+
+[download]
+hash = 'b731e612ccdab3d246e2f97795c88ed0abe0b890'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5850815
+project-id = 630431
+
+[[x-prismlauncher-dependencies]]
+addonId = '569849'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '548599'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '319596'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '484064'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '401955'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '391390'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '868922'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '353935'
+type = 'OPTIONAL'

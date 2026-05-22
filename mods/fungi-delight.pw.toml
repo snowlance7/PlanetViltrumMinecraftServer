@@ -1,0 +1,21 @@
+filename = 'FungiDelight-1.20.1-1.3.jar'
+name = 'Fungi Delight (Farmers Delight Addon)'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'FungiDelight-1.20.1-1.3.jar'
+
+[download]
+hash = '0154431d104acf4fc5984316b9526640c2bf83fd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7450816
+project-id = 1394406
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'

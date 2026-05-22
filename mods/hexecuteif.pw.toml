@@ -1,0 +1,17 @@
+filename = 'hexecuteif-forge-1.0.0+1.20.1.jar'
+name = 'HexecuteIf'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0+1.20.1'
+
+[download]
+hash = 'aa84d8e6468f7b129575052503d105e61ea127e753231dd8b0d01859ee08a3ab996d84cb47008495c2d133182cd522f89bf1722642d9329f80e951e5c9a6d1ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Uj82AMD7/versions/zxd2haP3/hexecuteif-forge-1.0.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Uj82AMD7'
+version = 'zxd2haP3'

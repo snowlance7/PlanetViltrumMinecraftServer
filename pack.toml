@@ -1,0 +1,13 @@
+name = "Planet Viltrum Server"
+author = "Snowlance"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b18e7a2244f3647f548beaa2696c864a3d213c66b9c81c74a02f02dca42206d5"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

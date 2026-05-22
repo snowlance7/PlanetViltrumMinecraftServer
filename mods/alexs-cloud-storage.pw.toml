@@ -1,0 +1,17 @@
+filename = 'cloudstorage-1.4.0-1.20.jar'
+name = 'Cloud  Storage'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cloudstorage-1.4.0-1.20'
+
+[download]
+hash = '583d797ade4d5b4e8de5f0171957cf6b2f691d8d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4578808
+project-id = 606618

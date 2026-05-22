@@ -1,0 +1,29 @@
+filename = 'ioticblocks-forge-1.0.2+1.20.1.jar'
+name = 'IoticBlocks'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.0.2+1.20.1 [Forge]'
+
+[download]
+hash = 'c1372e8db5cec7ae8a3558c70c41447402b81434'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7012296
+project-id = 1239463
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '569849'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '351264'
+type = 'REQUIRED'

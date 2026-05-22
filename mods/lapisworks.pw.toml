@@ -1,0 +1,49 @@
+filename = 'lapisworks-1.5.8.2.jar'
+name = 'Lapisworks'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.8.2'
+
+[download]
+hash = 'ad37537ee73e432cc0593cef48d781c22c699ee11de22d154cb3f69ac2cad4e129d150d075d8c455c9a81495f16e5bb94c1b4ff6b0868f982a6571b9e1087e6c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YPwDELmO/versions/eO8jOXYV/lapisworks-1.5.8.2.jar'
+
+[update.modrinth]
+mod-id = 'YPwDELmO'
+version = 'eO8jOXYV'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ybwf7iLN'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5aaWibi9'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mvESKiJR'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'xWqLqLJ4'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nTW3yKrm'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'aBVJ6Q36'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fRiHVvU7'
+type = 'OPTIONAL'

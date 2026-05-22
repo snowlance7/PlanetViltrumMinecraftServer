@@ -1,0 +1,33 @@
+filename = 'hexxyplanes-forge-0.2.3+1.20.1.jar'
+name = 'Hexxyplanes'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v0.2.3+1.20.1 [Forge]'
+
+[download]
+hash = 'f89bf693af18c6eebc8f4dc6a73132ae5ae4f5f7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7905478
+project-id = 1397012
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '569849'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '351264'
+type = 'REQUIRED'

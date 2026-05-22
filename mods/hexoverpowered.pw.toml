@@ -1,0 +1,29 @@
+filename = 'HexOverpowered-forge-1.20.1-0.11.6.jar'
+name = 'HexOverpowered'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-0.11.6'
+
+[download]
+hash = '92b8e0ac71b0cdab7b521a7ba6cba34efd43a83b35ecd292ce9eaf88cef28ef625f55e86985dcc08bad4cdd735ae0b69c448685d3c52edd9ab769996620b427d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PkhtCPsD/versions/xjo0ygeU/HexOverpowered-forge-1.20.1-0.11.6.jar'
+
+[update.modrinth]
+mod-id = 'PkhtCPsD'
+version = 'xjo0ygeU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nTW3yKrm'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ce6I4WUE'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'aBVJ6Q36'
+type = 'OPTIONAL'
