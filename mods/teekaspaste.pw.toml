@@ -1,55 +1,13 @@
-filename = 'teekaspaste-forge-1.20.1.jar'
-name = 'TeekasPaste'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [
-    '1.20.1',
-    '1.20.2',
-    '1.20.3',
-    '1.20.4',
-    '1.20.5',
-    '1.20.6',
-    '1.21',
-    '1.21.1',
-    '1.21.2',
-    '1.21.3',
-    '1.21.4',
-    '1.21.5',
-    '1.21.6',
-    '1.21.7',
-    '1.21.8',
-    '1.21.9',
-    '1.21.10',
-    '1.21.11',
-    '26.1',
-    '26.1.1',
-    '26.1.2'
-]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.0+1.20.1'
+name = "TeekasPaste"
+filename = "teekaspaste-forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'f02998589f1fbba63e5c0e4fd7ee6aadc4229cca7a3a12a169c39c2338ca9d2e21c52fa5474c3002bc8c667afd4ce3b9bb51630e8d6f4c8e5c384629c491b522'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/h4hnoIMN/versions/o1o4HEOq/teekaspaste-forge-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/h4hnoIMN/versions/o1o4HEOq/teekaspaste-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "f02998589f1fbba63e5c0e4fd7ee6aadc4229cca7a3a12a169c39c2338ca9d2e21c52fa5474c3002bc8c667afd4ce3b9bb51630e8d6f4c8e5c384629c491b522"
 
+[update]
 [update.modrinth]
-mod-id = 'h4hnoIMN'
-version = 'o1o4HEOq'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nTW3yKrm'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'ordsPcFz'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'lhGA9TYQ'
-type = 'REQUIRED'
+mod-id = "h4hnoIMN"
+version = "o1o4HEOq"

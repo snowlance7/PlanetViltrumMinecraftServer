@@ -1,18 +1,13 @@
-filename = 'MelonMod-1.20.1-1.8.26.jar'
-name = 'Melon Golem'
-side = ''
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'MelonMod-1.20.1-1.8.26.jar'
+name = "Melon Golem"
+filename = "MelonMod-1.20.1-1.8.26.jar"
+side = "both"
 
 [download]
-hash = 'b4bbe1c9e9c38e063c12b75baa71462f78253270'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "b4bbe1c9e9c38e063c12b75baa71462f78253270"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5136919
 project-id = 279420

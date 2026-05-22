@@ -1,12 +1,12 @@
 name = "Planet Viltrum Server"
-author = "Snowlance"
+author = "Snowy"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b18e7a2244f3647f548beaa2696c864a3d213c66b9c81c74a02f02dca42206d5"
+hash = "ec231a12bed751e93c77b8cd445c7cebd35dd02b133a0a99ccb3761dcc350996"
 
 [versions]
 forge = "47.4.10"

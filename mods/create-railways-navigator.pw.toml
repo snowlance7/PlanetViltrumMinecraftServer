@@ -1,25 +1,13 @@
-filename = 'createrailwaysnavigator-forge-1.20.1-beta-0.9.0-C6.jar'
-name = 'Create Railways Navigator'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.20.1-beta-0.9.0-C6'
+name = "Create Railways Navigator"
+filename = "createrailwaysnavigator-forge-1.20.1-beta-0.9.0-C6.jar"
+side = "both"
 
 [download]
-hash = 'd08e42d369ec1b12fdb81c153d3c4573d12f6b4dc0af8d29dc2fb4745d55c772b931d3923109d431667706331a8d5dee4d209b6a79c8b7f758a88bf73d9b659f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Dq3STxps/versions/Z2tKHy4Y/createrailwaysnavigator-forge-1.20.1-beta-0.9.0-C6.jar'
+hash-format = "sha1"
+hash = "7e023ae7f01e6a5407000a1dc18bb6213bf7de74"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'Dq3STxps'
-version = 'Z2tKHy4Y'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'sbIsGaOV'
-type = 'REQUIRED'
+[update]
+[update.curseforge]
+file-id = 8017341
+project-id = 935929

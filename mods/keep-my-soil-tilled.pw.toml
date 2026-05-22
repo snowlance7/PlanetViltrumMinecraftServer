@@ -1,21 +1,13 @@
-filename = 'keepmysoiltilled-1.20.1-2.5.jar'
-name = 'Keep My Soil Tilled'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[Fabric/Forge/Neo] 1.20.1-2.5 | Keep My Soil Tilled'
+name = "Keep My Soil Tilled"
+filename = "keepmysoiltilled-1.20.1-2.5.jar"
+side = "both"
 
 [download]
-hash = 'c7a8c0dfb5f75170ee816b740ce60302d726d3ab'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "c7a8c0dfb5f75170ee816b740ce60302d726d3ab"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6185615
 project-id = 547961
-
-[[x-prismlauncher-dependencies]]
-addonId = '342584'
-type = 'REQUIRED'

@@ -1,18 +1,13 @@
-filename = 'butchery-5.0-forge-1.20.1.jar'
-name = 'Butchery'
-side = 'server'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'butchery-5.0-forge-1.20.1'
+name = "Butchery"
+filename = "butchery-5.0-forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '6c4ffcb943dc439b17f08fff50f789b6fc1f0ce2'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "6c4ffcb943dc439b17f08fff50f789b6fc1f0ce2"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 8105744
 project-id = 973620
