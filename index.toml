@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c3949a05316d204a61e901c10b1e62c3dabf7cfd4373ece8152187545bed564c"
+hash = "c9081708402e1fd5e5936c3119a43717c0fd51185f940faa79dbbd8670d55a40"
 metafile = true
 
 [[files]]
@@ -522,12 +522,12 @@ metafile = true
 
 [[files]]
 file = "mods/hexerei.pw.toml"
-hash = "79bfdf5bd4e7cc009b4ae84ab27b1f358bf2da1aa8f30102e77e1aae66aed688"
+hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
 metafile = true
 
 [[files]]
-file = "mods/hexical-unofficial.pw.toml"
-hash = "361fc57a82e5817df410b9b42a5c07595a9de65a405a55f560080f993d01a958"
+file = "mods/hexical.pw.toml"
+hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextended-staves.pw.toml"
-hash = "6d9fa5587a6d13ba8f680e36ab1c392d080411208ba2efd6148110f1772c2f88"
+hash = "f24bbafda4b129d94153f559f3f3612c6a96f167208f8e8f7c9d7a00237536e1"
 metafile = true
 
 [[files]]
@@ -812,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneironaut-reforged.pw.toml"
-hash = "e65daaddde497b6f882735feb34834f9744e7d8c6eca8ee5b4fe318ce3e7adcb"
+hash = "77c4468d29b6c6aa336f83f96c8d163c80c95697ec51d5b63c7f118fe810f440"
 metafile = true
 
 [[files]]
@@ -956,8 +956,8 @@ hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
 metafile = true
 
 [[files]]
-file = "mods/tinker-delight.pw.toml"
-hash = "7fe3c496758e54f1038be900a0b8fd31621c108a19bdcb8392c7fb2d52ad0d7f"
+file = "mods/tinkers-construct-delight.pw.toml"
+hash = "f13cee660905ecd3d2f25d5ac142226ca0744023529646d942c7f8b7aae80b20"
 metafile = true
 
 [[files]]

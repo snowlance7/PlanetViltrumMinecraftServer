@@ -1,13 +1,13 @@
-name = "Oneironaut Reforged"
+name = "Oneironaut Forge"
 filename = "oneironaut-reforgedv1.20.1 - 1.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e03b323eaa4d768e0111e488f57c7e0dd60af352"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/2fBodoPh/versions/uPCjduul/oneironaut-reforgedv1.20.1%20-%201.0.4.jar"
+hash-format = "sha512"
+hash = "bfbdbcce0ba9efa76ec888ef40645e4f225e58b3988fb471b5c92147dd22b67daaba406539ba8f0e36889ee450e052026fa34082cb272e96393fe18971ad9aa3"
 
 [update]
-[update.curseforge]
-file-id = 7767070
-project-id = 1478427
+[update.modrinth]
+mod-id = "2fBodoPh"
+version = "uPCjduul"
