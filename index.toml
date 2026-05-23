@@ -286,6 +286,11 @@ hash = "f6f19441deb7a82aba8afe2421758930854518ed7e9e3de56583217227f39bff"
 metafile = true
 
 [[files]]
+file = "mods/diet.pw.toml"
+hash = "90791d91751fc9a54e339f07f23f71ecb159383c946234a1113cbfab8a34162e"
+metafile = true
+
+[[files]]
 file = "mods/display-delight.pw.toml"
 hash = "0d23c9e4edd8df6c91d21f09c4d8fa25a198122c3051a3462dbd1731a8639d77"
 metafile = true
