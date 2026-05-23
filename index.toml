@@ -486,11 +486,6 @@ hash = "8cc5e3092795990c7c02710a453001833799c1ee90e7162231507c3589b87f8f"
 metafile = true
 
 [[files]]
-file = "mods/hexautomata.pw.toml"
-hash = "e06a2a8da5d44ea0d359fd49b98e58a0405ed50016ec0d29065a0c6567a24dae"
-metafile = true
-
-[[files]]
 file = "mods/hexcassettes.pw.toml"
 hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
 metafile = true
@@ -1029,7 +1024,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
 metafile = true
-
-[[files]]
-file = "pregxxy-forge-0.1.0+1.20.1.jar"
-hash = "b9d795fe895306bfe6c2842734eb103a38b9562926888a463a24b4b675e9a1b2"
