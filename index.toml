@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -421,8 +421,18 @@ hash = "f4dfbacd1841ba53b5b2419abff38d84b6508f150193456b4c5adb6409801340"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "6c6893267694003c8fc8a2c1a89e961d28add27991a26b60abedda1eafb0eb57"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "9db3089b9504be94818135f452daa1f2abbcb478d31abba2b19833902ea5daa5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
 metafile = true
 
 [[files]]
@@ -753,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "16451920c0072df521f94325819ffa0cd7bc1e5fd1dcf7ddb153aac07a3225c6"
+metafile = true
+
+[[files]]
+file = "mods/more-protectables.pw.toml"
+hash = "9d92359883198b41985748c62f64272165b7c11eb410f2d1929e53005d084d13"
 metafile = true
 
 [[files]]
