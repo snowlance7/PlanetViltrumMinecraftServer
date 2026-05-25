@@ -141,11 +141,6 @@ hash = "c652306fdcbb41d5acb22b625217b0ab31e4d8e36d61411ba74008c829046d11"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
-metafile = true
-
-[[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
 metafile = true
