@@ -1036,6 +1036,11 @@ hash = "bf8edb8df8ec3804522e688c8ffbc351559821488d7faef2b7e90b13cee0109b"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a6c4f857d620b6cefac579b443435020801befa64a7e6a356a8cf9520572f986"
+metafile = true
+
+[[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
 metafile = true
