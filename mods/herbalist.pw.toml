@@ -1,0 +1,13 @@
+name = "Herbalist"
+filename = "herbalistmod-2.5.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29c4284a1309eecb9b765365ff7f7737edf2cbfe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7716377
+project-id = 905719

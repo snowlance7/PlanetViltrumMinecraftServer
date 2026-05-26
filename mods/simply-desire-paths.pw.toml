@@ -1,0 +1,13 @@
+name = "Pxl's Paths"
+filename = "paths-1.4.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2498f892aa12db8974f7bb22adbfab7c1bf05aa5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7270515
+project-id = 1119511

@@ -471,6 +471,16 @@ hash = "54f22e5414c1fd20144a39f6052655bb42067acb3dc98833d90b1a2ca9fc27fb"
 metafile = true
 
 [[files]]
+file = "mods/herbalist.pw.toml"
+hash = "4ec20e16d6c6c1e87c0994795aed9f0d44c3773fb6e0c7bf13eea891cbea559d"
+metafile = true
+
+[[files]]
+file = "mods/herbalists-delight.pw.toml"
+hash = "21d49564cdc94a105da5d42df86b4faad4c0a1b43c9a408e52e750f452bb75bc"
+metafile = true
+
+[[files]]
 file = "mods/hex-ars-linker.pw.toml"
 hash = "22a59b2feb047abd27c18c4839a1dca9a4132ee3a34c2aacd2aa4496f29ab25c"
 metafile = true
@@ -756,6 +766,11 @@ hash = "58b42792f391e60edd81639bc60e30b16c2e7313b6d639d304f286305058a4b1"
 metafile = true
 
 [[files]]
+file = "mods/miku-plushies.pw.toml"
+hash = "1ce60b73995ef7ae39d8f0fb790b682311b3e9bd6d0fc29d5cb06ef1d2bbda48"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-cursor.pw.toml"
 hash = "1ab9787e55e36c023048bc8f5bca933e4b932b29fe018f11c9003d81beca8c5e"
 metafile = true
@@ -906,6 +921,11 @@ hash = "7226c6e2e259ccc2bda599dafe990aab3d1d9c675a4f30a00b5f5e1e33e13dc5"
 metafile = true
 
 [[files]]
+file = "mods/simply-desire-paths.pw.toml"
+hash = "2a5198075d560c672903813926a9645525cb1f06e4e6a8716e02bef4ccdc462e"
+metafile = true
+
+[[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "576f8242f3de93161c590067fda3f3e9e922c0aea8fb5fcfac5adcef0d9d4a34"
 metafile = true
@@ -983,6 +1003,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-levelling-addon.pw.toml"
 hash = "66fd483f4311166307c184c29f3e81f56179ed5ab094328b2c1413e91ba4c68a"
+metafile = true
+
+[[files]]
+file = "mods/tobacconist.pw.toml"
+hash = "107672c5a5cb5ba3c98dd7f5a6db84987ccb2d6ff1523a5419f15d9e8b247da0"
 metafile = true
 
 [[files]]

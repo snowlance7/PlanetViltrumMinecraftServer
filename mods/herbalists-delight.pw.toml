@@ -1,0 +1,13 @@
+name = "Herbalist's Delight"
+filename = "herbalists_delight-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8f053317514ea28abd7ca545406434193954d78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6576010
+project-id = 1273901
