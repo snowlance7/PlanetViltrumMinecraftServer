@@ -281,6 +281,11 @@ hash = "f6f19441deb7a82aba8afe2421758930854518ed7e9e3de56583217227f39bff"
 metafile = true
 
 [[files]]
+file = "mods/desire-path.pw.toml"
+hash = "82e6ef3719b4f041755162e2e34e8939a1d2486f574e1f9032226009d5c7ce39"
+metafile = true
+
+[[files]]
 file = "mods/diet.pw.toml"
 hash = "90791d91751fc9a54e339f07f23f71ecb159383c946234a1113cbfab8a34162e"
 metafile = true
@@ -472,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/herbalist.pw.toml"
-hash = "4ec20e16d6c6c1e87c0994795aed9f0d44c3773fb6e0c7bf13eea891cbea559d"
+hash = "70259ebcf122f3cbf0ef95d1a6c5abe890f192d48e575dfc4f8f06ef5844e858"
 metafile = true
 
 [[files]]
@@ -603,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "d92834912371593543ac5c2de473e438fcf831e6e7641634c5e95918b73c211a"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "c5b21ae7f311c5d76ab5b55988844d1c1973a93e491f71766610af991151ef8e"
 metafile = true
 
 [[files]]
@@ -921,11 +931,6 @@ hash = "7226c6e2e259ccc2bda599dafe990aab3d1d9c675a4f30a00b5f5e1e33e13dc5"
 metafile = true
 
 [[files]]
-file = "mods/simply-desire-paths.pw.toml"
-hash = "2a5198075d560c672903813926a9645525cb1f06e4e6a8716e02bef4ccdc462e"
-metafile = true
-
-[[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "576f8242f3de93161c590067fda3f3e9e922c0aea8fb5fcfac5adcef0d9d4a34"
 metafile = true
@@ -1007,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/tobacconist.pw.toml"
-hash = "107672c5a5cb5ba3c98dd7f5a6db84987ccb2d6ff1523a5419f15d9e8b247da0"
+hash = "0213af9903d778d1971371878f11756ad312cbc8844643a832f6300226527c3e"
 metafile = true
 
 [[files]]

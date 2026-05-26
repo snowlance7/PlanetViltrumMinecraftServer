@@ -3,11 +3,11 @@ filename = "tobacconistmod-3.0.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7b48020cb68c2730eb9fd6ea79bfb50142022338"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/67HcuvfL/versions/E9A0R0sE/tobacconistmod-3.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "add6506710b89b6c642e794e468fcc8b16e76cc16fadecc0c1695303b7bb5c82c8e2d0a471077237bee2f90e5967d737acb85220585991b00f7b54a21a856e0f"
 
 [update]
-[update.curseforge]
-file-id = 7927510
-project-id = 896915
+[update.modrinth]
+mod-id = "67HcuvfL"
+version = "E9A0R0sE"

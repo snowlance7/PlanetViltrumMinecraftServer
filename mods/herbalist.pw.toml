@@ -3,11 +3,11 @@ filename = "herbalistmod-2.5.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "29c4284a1309eecb9b765365ff7f7737edf2cbfe"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fUz5XpqI/versions/a1FzTav2/herbalistmod-2.5.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "6d13fb85d3369b79360f9fe5df534abc48b5c6ea698226d0de92fba6da01f629f45c6eb0f4bfa5d1cb1c0cf0d12baf821a6129bd65d61630f3509b21ac5ebfe4"
 
 [update]
-[update.curseforge]
-file-id = 7716377
-project-id = 905719
+[update.modrinth]
+mod-id = "fUz5XpqI"
+version = "a1FzTav2"
