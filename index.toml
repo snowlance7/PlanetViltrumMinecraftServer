@@ -46,6 +46,11 @@ hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
 metafile = true
 
 [[files]]
+file = "mods/animal-pens.pw.toml"
+hash = "3d4357b8fc6b5bb12cd2eb9ced1c319815b6724b063bef6516c51669e82ffba6"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -293,6 +298,16 @@ metafile = true
 [[files]]
 file = "mods/display-delight.pw.toml"
 hash = "0d23c9e4edd8df6c91d21f09c4d8fa25a198122c3051a3462dbd1731a8639d77"
+metafile = true
+
+[[files]]
+file = "mods/domestication-innovation-fixed.pw.toml"
+hash = "abd13560972cb4db4dcd473da171c6cc53f1e065dbe2ca717fa8558fd9aa316d"
+metafile = true
+
+[[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "2aa8e99103e73af719667f2c03ab4380b1febed92cce4724aff8a5ec0e3cafea"
 metafile = true
 
 [[files]]
@@ -898,6 +913,16 @@ metafile = true
 [[files]]
 file = "mods/raws-visual-keybinder.pw.toml"
 hash = "deeb8bbe2029f1e068a08bff7f3dd6c9895c2ed138ca01b2f5c3c22597308ace"
+metafile = true
+
+[[files]]
+file = "mods/roaring.pw.toml"
+hash = "0fbe5d12fc749210bac71bbdaefd71011d32a9c6d5839156bb89ebcd431243a1"
+metafile = true
+
+[[files]]
+file = "mods/room-for-two.pw.toml"
+hash = "b8b7a1102502c65966692e9abd429401d45bdf52171f432ff3f12525c13d8466"
 metafile = true
 
 [[files]]
