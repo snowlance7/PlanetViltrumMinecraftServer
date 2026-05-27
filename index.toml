@@ -931,11 +931,6 @@ hash = "32ffd5bd8c13596cc2533e383ac2e53b361cab8a4b334c19c0ecac81c3163524"
 metafile = true
 
 [[files]]
-file = "mods/room-for-two.pw.toml"
-hash = "b8b7a1102502c65966692e9abd429401d45bdf52171f432ff3f12525c13d8466"
-metafile = true
-
-[[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "d48a3fee52f6227e29cef2f5aeda2a437ae827f1c20aa3325d0abd9749f205f5"
 metafile = true
