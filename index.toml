@@ -96,6 +96,11 @@ hash = "9c0985a3853b0662dbd06beafeaf05b5a6086cfc704347b8c2daceaae5ec99dd"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "585a3071c68587c3c041832210a58e74e7701162dbc360d47956655ca1a6438e"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "81926d253de0a8ff9520fb51a5b34394a020cd56c2a063e71ce4187d9b33e891"
 metafile = true
@@ -211,6 +216,11 @@ hash = "46a6361664585d7d8d88debc4e1c51b47edde02c38013a89a0db273048c7a33f"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "f78e7eba183dedd3eda458da9352c24ce39d4e09bf44521e74b7b18653f202f7"
+metafile = true
+
+[[files]]
 file = "mods/create-crystallized.pw.toml"
 hash = "e16dd50eb2ce358ba498a7b7c52d72cd3df95fd56ed70774604967148ea59582"
 metafile = true
@@ -228,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/create-estrogen.pw.toml"
 hash = "873aae2177ee4ef91e4ef1fc959ad9797850be1e8af7443148488a3681e13f85"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "4462e728c1330286d938c43f63013bcdd80c926794a92b0320b1a422547ae565"
 metafile = true
 
 [[files]]
@@ -303,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/domestication-innovation-fixed.pw.toml"
 hash = "abd13560972cb4db4dcd473da171c6cc53f1e065dbe2ca717fa8558fd9aa316d"
-metafile = true
-
-[[files]]
-file = "mods/domestication-innovation.pw.toml"
-hash = "2aa8e99103e73af719667f2c03ab4380b1febed92cce4724aff8a5ec0e3cafea"
 metafile = true
 
 [[files]]
@@ -913,6 +923,11 @@ metafile = true
 [[files]]
 file = "mods/raws-visual-keybinder.pw.toml"
 hash = "deeb8bbe2029f1e068a08bff7f3dd6c9895c2ed138ca01b2f5c3c22597308ace"
+metafile = true
+
+[[files]]
+file = "mods/realistic-bees.pw.toml"
+hash = "32ffd5bd8c13596cc2533e383ac2e53b361cab8a4b334c19c0ecac81c3163524"
 metafile = true
 
 [[files]]
