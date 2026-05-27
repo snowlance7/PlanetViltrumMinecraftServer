@@ -916,11 +916,6 @@ hash = "deeb8bbe2029f1e068a08bff7f3dd6c9895c2ed138ca01b2f5c3c22597308ace"
 metafile = true
 
 [[files]]
-file = "mods/roaring.pw.toml"
-hash = "0fbe5d12fc749210bac71bbdaefd71011d32a9c6d5839156bb89ebcd431243a1"
-metafile = true
-
-[[files]]
 file = "mods/room-for-two.pw.toml"
 hash = "b8b7a1102502c65966692e9abd429401d45bdf52171f432ff3f12525c13d8466"
 metafile = true
