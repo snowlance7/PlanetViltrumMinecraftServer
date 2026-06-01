@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/butchery.pw.toml"
-hash = "58660ed129f91b07b95e7edc567840edee0ce6af6ab00552b6f009458ab0dd64"
+hash = "f836ed5f54b3a4d744512a086ec7b2dedafa06c4099bd14f2537334d5894f81b"
 metafile = true
 
 [[files]]
@@ -173,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "0ab295b94a1be0145c9897a26481a48d84c6627b36697cb05d97dc5e68378820"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "58bf97ca61f74ea9a540f6e6090aef631155748c49b83a7a338b34d8dece9109"
 metafile = true
 
 [[files]]
@@ -247,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "6ec81473137647dd39281912ef17c2defb008d99b3e2f64723f804a78a2a36a7"
+hash = "21b8d47896eabb59109911bbee18ecb78f9ba60603e6a171a1620f9a572e3590"
 metafile = true
 
 [[files]]
@@ -322,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "78da26aff09cb02df39c0cb1cd6a19ceeb69890b852e65a45cc8ca8d137780e4"
+hash = "2e71523bdbd308db8ff2ae5d4a4c3f6cbac7b47c3c6e311c507bb6199d145e96"
 metafile = true
 
 [[files]]
@@ -957,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7226c6e2e259ccc2bda599dafe990aab3d1d9c675a4f30a00b5f5e1e33e13dc5"
+hash = "84065b716a71d24865de72295965ebe28129794126142cde040ad2f4d8ee893a"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Butchery"
-filename = "butchery-5.0-forge-1.20.1.jar"
+filename = "butchery-5.1-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6c4ffcb943dc439b17f08fff50f789b6fc1f0ce2"
+hash = "556f81260587f483bba69d028841f3e467b02408"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8105744
+file-id = 8156002
 project-id = 973620
