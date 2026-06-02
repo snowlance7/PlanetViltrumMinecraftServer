@@ -116,6 +116,11 @@ hash = "716738bc268a354fb2df91d00ae7c60cf8d86446249fe3b7221c16a4f7d859c4"
 metafile = true
 
 [[files]]
+file = "mods/bountiful-villager.pw.toml"
+hash = "bdfe9564541b8ac0c36c28be19757643d54b5da65d5fddd90dc8a48b49277e00"
+metafile = true
+
+[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "2798fc9c61947e92e1e43c8b031429b811e45aa79a421b7fba9fe81754e319a2"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "c652306fdcbb41d5acb22b625217b0ab31e4d8e36d61411ba74008c829046d11"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight-forge.pw.toml"
+hash = "c280846e9a6599055814a024ad5b5212344a8c02a955d0e779cca7aa2244fd4f"
 metafile = true
 
 [[files]]
@@ -303,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "bee0bbbcb6f4082c1916d3601f92d88a7a3f68fb9e0d657909e1d507709115e6"
-metafile = true
-
-[[files]]
-file = "mods/desire-path.pw.toml"
-hash = "82e6ef3719b4f041755162e2e34e8939a1d2486f574e1f9032226009d5c7ce39"
 metafile = true
 
 [[files]]
@@ -496,6 +501,11 @@ hash = "c2a3f3de7f32e18283c366c551ddb7869e35c025acac76b52f9ce6ae05711789"
 metafile = true
 
 [[files]]
+file = "mods/haunted-harvest.pw.toml"
+hash = "3ed57a44b27d8de90bc53971a135610476f1b09779e9e5a31a9bc27339da6ae9"
+metafile = true
+
+[[files]]
 file = "mods/headpats.pw.toml"
 hash = "907fa9363d508d1d81ceffdad5351917cff9d30c38c9f05cbfbbd4fb672be49a"
 metafile = true
@@ -631,6 +641,11 @@ hash = "d872ab29b4179b3bc1cb7a649c739d9445052c8ef57fa1b24dfb6a02b1eb1da5"
 metafile = true
 
 [[files]]
+file = "mods/hungry-villagers.pw.toml"
+hash = "ac13f78c2b372307ac009dd4fec52611ec2f28929fa0e19fa154fb9cc27d63d5"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
 metafile = true
@@ -718,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/leashable-collars.pw.toml"
 hash = "29f073231de93f994fdbbfc2c75e9c99b06046200a2f78725918949709fece3f"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "1d623ba29fcb52d5db733af383a13273792ac3dc1ac7a8f9e3f58a17ae1bc2c7"
 metafile = true
 
 [[files]]
@@ -881,6 +901,11 @@ hash = "57f6793fdca748db18eb33a34344f68804e881af07c5e032073d8b33ee683a54"
 metafile = true
 
 [[files]]
+file = "mods/once-upon-a-stroll.pw.toml"
+hash = "7b0f47c6d82fe6b4db83a55c309291417918a5f91e564aff354e3437a1b06bc9"
+metafile = true
+
+[[files]]
 file = "mods/oneironaut-reforged.pw.toml"
 hash = "77c4468d29b6c6aa336f83f96c8d163c80c95697ec51d5b63c7f118fe810f440"
 metafile = true
@@ -893,6 +918,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
+metafile = true
+
+[[files]]
+file = "mods/path-under-gates.pw.toml"
+hash = "601de3caa68aced9c10bb5009c40b9dac3695bb2a6c370f25442826ac047cb95"
 metafile = true
 
 [[files]]
@@ -933,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/realistic-bees.pw.toml"
 hash = "32ffd5bd8c13596cc2533e383ac2e53b361cab8a4b334c19c0ecac81c3163524"
+metafile = true
+
+[[files]]
+file = "mods/regrowth.pw.toml"
+hash = "402d4fb0409c3faaf43dc5f04c2c882f895766b23c0f0265c2ee3b73eceb28ce"
 metafile = true
 
 [[files]]
@@ -983,6 +1018,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "87caea00305cfee9c1062f10f61a1cb8897ca884361744151d9bc02845c84037"
 metafile = true
 
 [[files]]

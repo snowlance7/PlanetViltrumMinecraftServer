@@ -1,0 +1,13 @@
+name = "Once Upon A Stroll"
+filename = "onceuponastroll-forge-1.20.1-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fp4kfzWI/versions/PzQ8U7fi/onceuponastroll-forge-1.20.1-1.7.0.jar"
+hash-format = "sha512"
+hash = "cad986a55bba498ff7eb3b920ed38cc564331276a834601111867fff1701773e7a29c3d7accfe5c8ebb15d20696a8f65e0796f09d18503933c0266941c7da24f"
+
+[update]
+[update.modrinth]
+mod-id = "fp4kfzWI"
+version = "PzQ8U7fi"

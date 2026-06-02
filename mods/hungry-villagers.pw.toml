@@ -1,0 +1,13 @@
+name = "Hungry Villagers"
+filename = "HungryVillagers-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "810ae12bff254e7d6b54369aacea440939462555"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7531821
+project-id = 1445518
