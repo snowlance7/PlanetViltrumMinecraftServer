@@ -1,0 +1,13 @@
+name = "Productive Villagers"
+filename = "productivevillagers-forge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3264bca1192f2987a3de232ff4d88ab83fb08844"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6662553
+project-id = 664389

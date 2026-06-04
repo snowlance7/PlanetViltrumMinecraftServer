@@ -1,0 +1,13 @@
+name = "Visiting Villagers – Bring Your Villages to Life!"
+filename = "visitingvillagers-1.0.2-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4b6a5c30735ed05f72fdf34f241524bb4ee917e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7927111
+project-id = 1392050

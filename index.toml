@@ -501,6 +501,11 @@ hash = "c2a3f3de7f32e18283c366c551ddb7869e35c025acac76b52f9ce6ae05711789"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "0879c3901d41cf58510cbd17d24cdd3a1e7ec063dbda3e22aa0ba8acbb5a215d"
+metafile = true
+
+[[files]]
 file = "mods/haunted-harvest.pw.toml"
 hash = "3ed57a44b27d8de90bc53971a135610476f1b09779e9e5a31a9bc27339da6ae9"
 metafile = true
@@ -846,6 +851,11 @@ hash = "9d92359883198b41985748c62f64272165b7c11eb410f2d1929e53005d084d13"
 metafile = true
 
 [[files]]
+file = "mods/more-villagers.pw.toml"
+hash = "c482f82b6ed128451c78e37c9347a907fc35f5e8b12e0347e2bbd8a3eec175fa"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "ca39f453b2c66a071f3175ad5f4050ad05501389e9d7f3953e4d888cab02be0d"
 metafile = true
@@ -938,6 +948,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
+file = "mods/productive-villagers.pw.toml"
+hash = "5ebe8a6a3a9876ce1df52deb9e874ba80c5aa2d28538bc55a7f99af18887dcff"
 metafile = true
 
 [[files]]
@@ -1123,6 +1138,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "0d1a0a24a2d759c48bb1daa4b1bf27df514c91a4ff9a2c87df20ed5ce9ae809a"
+metafile = true
+
+[[files]]
+file = "mods/visiting-villagers.pw.toml"
+hash = "faf0efbf605124b0a3bc177aa31d6fe569fef3c14c9922f9308d09416e324410"
 metafile = true
 
 [[files]]
