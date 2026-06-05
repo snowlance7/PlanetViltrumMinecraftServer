@@ -1071,6 +1071,11 @@ hash = "148bc9c5989ac676d91b6f07a5e871d7b5d11c1b7b46fe30c3894c1512069a88"
 metafile = true
 
 [[files]]
+file = "mods/tardis-refined.pw.toml"
+hash = "cdf635d888684b397817b61221d3e20bc7bd1411b1d670b92a29c29b6c3d1753"
+metafile = true
+
+[[files]]
 file = "mods/tcintegrations.pw.toml"
 hash = "e3b31e046167211249c4ab4b18ff408f332d6e7ad75cb4e792f10308f1432252"
 metafile = true
@@ -1123,6 +1128,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
+metafile = true
+
+[[files]]
+file = "mods/triadtech.pw.toml"
+hash = "fe0a832a24ff74c6c763045f998785ebb65fc164742ff2715c014f08f8dd35a2"
 metafile = true
 
 [[files]]

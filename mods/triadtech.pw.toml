@@ -1,0 +1,13 @@
+name = "TriadTech"
+filename = "triadtech-1.0.3+1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "016f939209e6c11ff50431df551f8f56567f923f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6139557
+project-id = 1053056

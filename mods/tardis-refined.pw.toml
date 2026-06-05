@@ -1,0 +1,13 @@
+name = "TARDIS Refined"
+filename = "forge-tardis_refined-mc1.20.1-v2.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c6b6010585e9aa63f739013dfab407155ee7fd5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6377016
+project-id = 782697
