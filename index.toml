@@ -191,6 +191,11 @@ hash = "58bf97ca61f74ea9a540f6e6090aef631155748c49b83a7a338b34d8dece9109"
 metafile = true
 
 [[files]]
+file = "mods/compass-to-map-xaeros.pw.toml"
+hash = "84f2acdf34b4a042a098de4317500d95bc1c4f41ab053fe8f5109bcae6040dc4"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
 metafile = true
@@ -383,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "f27def4e45c03d54c675582708bc21b4891075eeeabc1c709b648e366d241269"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "0db85b53cd32bb1d23c33273deaef58bd0f0429a180d171e3f02fe0ab86b0fe2"
 metafile = true
 
 [[files]]
@@ -871,6 +881,11 @@ hash = "e37f81b9e82e757ba91a3efc644ec63dfcac7f89d87a83032f02ea637b955f52"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "937c7ae4c8274ee0717546a2ca736099b1640a178b8f06027f62ca310517e413"
+metafile = true
+
+[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
 metafile = true
@@ -988,6 +1003,11 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "d48a3fee52f6227e29cef2f5aeda2a437ae827f1c20aa3325d0abd9749f205f5"
+metafile = true
+
+[[files]]
+file = "mods/scannable.pw.toml"
+hash = "6e62d24584603de6f35af3599681d71d20fa20f59dd8206042bb7026b7021a4f"
 metafile = true
 
 [[files]]
@@ -1163,6 +1183,16 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "0cb70caa22009a495a64a4332480b5ae80cb7fc7ba34c0a48ab8aff7df20b4f7"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "3daa29f5d5a1048a0f666fef34939c15a80884ce7527c75cce7c852cc37dd902"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
+hash = "c27d7628458a448ccf85452af6d02b15fdccfc19b10b3e90bd4e8783a4ea176f"
 metafile = true
 
 [[files]]
