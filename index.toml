@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/animal-pens.pw.toml"
-hash = "3d4357b8fc6b5bb12cd2eb9ced1c319815b6724b063bef6516c51669e82ffba6"
+hash = "9705463c2207da5898b147676baa4585ac55c927b11a40c6d1037e3dd815ba02"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0ab295b94a1be0145c9897a26481a48d84c6627b36697cb05d97dc5e68378820"
+hash = "1c6c8b2b573cb54265aa185ce94043a0bbe9ff7e2864a9a9ed11267a861027fb"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "f78e7eba183dedd3eda458da9352c24ce39d4e09bf44521e74b7b18653f202f7"
+hash = "648fcb2b556d5bee618e3eee31d3218b6f62736d08aab6b1ea2fee226a5f8231"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/cuisine-delight.pw.toml"
-hash = "26301e7567c3ea8901150aba6c422972360c4854a0ca8fff70e231b57b5600a0"
+hash = "f4f80b3548353490765e5221a6ed7f3656a00fa0f7bd54f8fb4e64bfbec4807e"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "f27def4e45c03d54c675582708bc21b4891075eeeabc1c709b648e366d241269"
+hash = "5fc7c8a79a61f3f0e2c7ae1c414ca930cbb2994d7e5fab498863bd2cd6318d52"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "2b7e34feead35203c6637b7c8afb49cb823ff6ddade568b131ca07c35ad02845"
+hash = "50c495c3ae5b77673bbb888c702bc2380d0528c3c0110db990ae181653bb0f63"
 metafile = true
 
 [[files]]
@@ -467,12 +467,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "6c6893267694003c8fc8a2c1a89e961d28add27991a26b60abedda1eafb0eb57"
+hash = "3e76939f890545ba722d145aee2e44bbac1c658b5e907d9f69d6e8299fe73127"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "9db3089b9504be94818135f452daa1f2abbcb478d31abba2b19833902ea5daa5"
+hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers.pw.toml"
-hash = "0879c3901d41cf58510cbd17d24cdd3a1e7ec063dbda3e22aa0ba8acbb5a215d"
+hash = "aa6e4d61f683ad37bee12c3d2226adced8415297addf18565ced2f37421dc881"
 metafile = true
 
 [[files]]
@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0bd6bab35d46b3f58978625f9f612e1b09c14ab146f40704cb06e93700799eb6"
+hash = "0248860e199d5583bcdaff2e448bedd72c99155314c9883b495726fae64883e8"
 metafile = true
 
 [[files]]
@@ -1067,12 +1067,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "438ef2d6c42d361509ffadeab25e87c88db9d6f396b508f093b983368b7760c2"
+hash = "c53ad04e055675fd0de24d43020ef850388e03875d5e4d010d3e18dffaf74cd2"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a017d5d3fe7758e0122f19251d978d3a1d08010e5f1a2229f9c4a9b7f6a7b666"
+hash = "29fba6379eef7c2c9d745e1ad0e9963ce0177de418561579c68ec9729471c0f1"
 metafile = true
 
 [[files]]
@@ -1187,7 +1187,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "3daa29f5d5a1048a0f666fef34939c15a80884ce7527c75cce7c852cc37dd902"
+hash = "507dcff9da8f66ca08df4faf789c10ad639a035da32e5834979076ce96031cba"
 metafile = true
 
 [[files]]
@@ -1197,12 +1197,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "bf8edb8df8ec3804522e688c8ffbc351559821488d7faef2b7e90b13cee0109b"
+hash = "9f2108437048cf5f8bab2cbb386ba6db9476e9ae98e3a04b46b2d92efd2ea989"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a6c4f857d620b6cefac579b443435020801befa64a7e6a356a8cf9520572f986"
+hash = "6a7b924b79571b9b67a14347efa0d733974b38a1d59d41bad52cf8b19d4d3452"
 metafile = true
 
 [[files]]
