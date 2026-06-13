@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -516,6 +516,11 @@ hash = "aa6e4d61f683ad37bee12c3d2226adced8415297addf18565ced2f37421dc881"
 metafile = true
 
 [[files]]
+file = "mods/hands-off.pw.toml"
+hash = "d5d7acd2f71160c172314769e15482c7789bfe94b87976d392b313f67aac60ed"
+metafile = true
+
+[[files]]
 file = "mods/haunted-harvest.pw.toml"
 hash = "3ed57a44b27d8de90bc53971a135610476f1b09779e9e5a31a9bc27339da6ae9"
 metafile = true
@@ -748,6 +753,11 @@ metafile = true
 [[files]]
 file = "mods/leashable-collars.pw.toml"
 hash = "29f073231de93f994fdbbfc2c75e9c99b06046200a2f78725918949709fece3f"
+metafile = true
+
+[[files]]
+file = "mods/libertys-villagers-revived.pw.toml"
+hash = "4fd78f43a716638595c4c016262b98fd45319652b4c57d566c1b3de6ce5df0c8"
 metafile = true
 
 [[files]]

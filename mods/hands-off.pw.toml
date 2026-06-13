@@ -1,0 +1,13 @@
+name = "Hands Off"
+filename = "handsoff-1.20.1-1.0.1-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a48de263a72505cd8ecb93de3015f99910f25a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5362660
+project-id = 813713
