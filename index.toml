@@ -756,8 +756,8 @@ hash = "29f073231de93f994fdbbfc2c75e9c99b06046200a2f78725918949709fece3f"
 metafile = true
 
 [[files]]
-file = "mods/libertys-villagers-revived.pw.toml"
-hash = "4fd78f43a716638595c4c016262b98fd45319652b4c57d566c1b3de6ce5df0c8"
+file = "mods/libertys-villagers.pw.toml"
+hash = "f447fdcdb7b21bad7caa050f3e481ed14608cf1c1f0df78524fa3863472618c5"
 metafile = true
 
 [[files]]
